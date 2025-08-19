@@ -12,3 +12,4 @@ For each chapter:
 ## Log
 
 * Chapter 1 - Aug 18, 2025
+* Chapter 2 - Aug 19, 2025
