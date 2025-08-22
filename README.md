@@ -13,3 +13,4 @@ For each chapter:
 
 * Chapter 1 - Aug 18, 2025
 * Chapter 2 - Aug 19, 2025
+* Chapter 3 - Aug 22, 2025
